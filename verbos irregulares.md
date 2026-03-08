@@ -53,6 +53,7 @@
 | Let · `lét`    | Let · `lét`      | Let · `lét`    | Permitir         |                                                    |
 | Put · `pút`    | Put · `pút`      | Put · `pút`    | Poner            |                                                    |
 | Read · `rí:d`  | Read · `réd`     | Read · `réd`   | Leer             | El pasado se pronuncia como "red" (rojo en inglés) |
+| Set · `sét`    | Set · `sét`      | Set · `sét`    | Poner / Colocar / Configurar |                       |
 | Shut · `shát`  | Shut · `shát`    | Shut · `shát`  | Cerrar           |                                                    |
 
 
