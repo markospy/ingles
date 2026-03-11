@@ -25,6 +25,9 @@
 | Sing · `síng`     | Sang · `sáeng`    | Sung · `sáng`    | Cantar           |                           |
 | Sink · `sínk`     | Sank · `sáenk`    | Sunk · `sánk`    | Hundir           |                           |
 | Swim · `suím`     | Swam · `suáem`    | Swum · `suám`    | Nadar            |                           |
+| Stink · `stínk`   | Stank · `stáenk`  | Stunk · `stánk`  | Oler mal         |                           |
+| Shrink · `shrínk` | Shrank · `shráenk` | Shrunk · `shránk` | Encoger         |                           |
+| Spring · `spríng` | Sprang · `spráeng` | Sprung · `spráng` | Saltar / Brotar |                           |
 
 
 ## 📑 Grupo 3: Verbos que terminan en "-en" en el Participio
@@ -55,7 +58,15 @@
 | Read · `rí:d`  | Read · `réd`     | Read · `réd`   | Leer                         | El pasado se pronuncia como "red" (rojo en inglés) |
 | Set · `sét`    | Set · `sét`      | Set · `sét`    | Poner / Colocar / Configurar |                                                    |
 | Shut · `shát`  | Shut · `shát`    | Shut · `shát`  | Cerrar                       |                                                    |
+| Hit · `jít`    | Hit · `jít`      | Hit · `jít`    | Golpear                      |                                                    |
+| Burst · `bé:*st` | Burst · `bé:*st` | Burst · `bé:*st` | Reventar / Estallar        |                                                    |
+| Bet · `bét`    | Bet · `bét`      | Bet · `bét`    | Apostar                      |                                                    |
+| Split · `splít` | Split · `splít`  | Split · `splít` | Partir / Dividir            |                                                    |
+| Wet · `uét`    | Wet · `uét`      | Wet · `uét`    | Mojar                        |                                                    |
+| Sweat · `suét` | Sweat · `suét`   | Sweat · `suét`  | Sudar                       |                                                    |
+| Bid · `bíd`    | Bid · `bíd`      | Bid · `bíd`    | Pujar / Ofertar              |                                                    |
 
+*\* La mayoría de los verbos irregulares que **terminan en -t o -d** tienen el **pasado simple** y el **participio pasado** escritos igual que el infinitivo (las tres formas idénticas). Excepción: **Read** (pasado y participio se escriben "read" pero se pronuncian `réd`).*
 
 ## 📑 Grupo 5: El patrón "-ew / -own"
 
@@ -67,6 +78,8 @@
 | Grow · `gróu`   | Grew · `grú:`    | Grown · `gróun`   | Crecer / Madurar           |                           |
 | Know · `nóu`    | Knew · `niú:`    | Known · `nóun`    | Saber / Conocer            |                           |
 | Throw · `thróu` | Threw · `thrú:`  | Thrown · `thróun` | Tirar / Arrojar (th ceceo) |                           |
+| Draw · `dró:`   | Drew · `drú:`    | Drawn · `dró:n`   | Dibujar / Extraer          |                           |
+| Withdraw · `uiz-dró:` | Withdrew · `uiz-drú:` | Withdrawn · `uiz-dró:n` | Retirar / Sacar (dinero) |                           |
 
 
 ## 📑 Grupo 6: El patrón "D" que cambia a "T"
