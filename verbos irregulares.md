@@ -45,16 +45,16 @@
 ## 📑 Grupo 4: Verbos Invariables (Las tres formas son iguales)
 
 
-| 🔤 Infinitivo  | 📝 Pasado Simple | 🔄 Participio  | 🇪🇸 Significado | 💡 Asociación inverosímil                          |
-| -------------- | ---------------- | -------------- | ---------------- | -------------------------------------------------- |
-| Cost · `kóst`  | Cost · `kóst`    | Cost · `kóst`  | Costar           |                                                    |
-| Cut · `kát`    | Cut · `kát`      | Cut · `kát`    | Cortar           |                                                    |
-| Hurt · `jé:*t` | Hurt · `jé:*t`   | Hurt · `jé:*t` | Lastimar / Doler |                                                    |
-| Let · `lét`    | Let · `lét`      | Let · `lét`    | Permitir         |                                                    |
-| Put · `pút`    | Put · `pút`      | Put · `pút`    | Poner            |                                                    |
-| Read · `rí:d`  | Read · `réd`     | Read · `réd`   | Leer             | El pasado se pronuncia como "red" (rojo en inglés) |
-| Set · `sét`    | Set · `sét`      | Set · `sét`    | Poner / Colocar / Configurar |                       |
-| Shut · `shát`  | Shut · `shát`    | Shut · `shát`  | Cerrar           |                                                    |
+| 🔤 Infinitivo  | 📝 Pasado Simple | 🔄 Participio  | 🇪🇸 Significado             | 💡 Asociación inverosímil                          |
+| -------------- | ---------------- | -------------- | ---------------------------- | -------------------------------------------------- |
+| Cost · `kóst`  | Cost · `kóst`    | Cost · `kóst`  | Costar                       |                                                    |
+| Cut · `kát`    | Cut · `kát`      | Cut · `kát`    | Cortar                       |                                                    |
+| Hurt · `jé:*t` | Hurt · `jé:*t`   | Hurt · `jé:*t` | Lastimar / Doler             |                                                    |
+| Let · `lét`    | Let · `lét`      | Let · `lét`    | Permitir                     |                                                    |
+| Put · `pút`    | Put · `pút`      | Put · `pút`    | Poner                        |                                                    |
+| Read · `rí:d`  | Read · `réd`     | Read · `réd`   | Leer                         | El pasado se pronuncia como "red" (rojo en inglés) |
+| Set · `sét`    | Set · `sét`      | Set · `sét`    | Poner / Colocar / Configurar |                                                    |
+| Shut · `shát`  | Shut · `shát`    | Shut · `shát`  | Cerrar                       |                                                    |
 
 
 ## 📑 Grupo 5: El patrón "-ew / -own"
@@ -148,7 +148,7 @@
 | Spin · `spín`      | Spun · `spán`      | Spun · `spán`           | Girar                            |                                               |
 | Stick · `estík`    | Stuck · `esták`    | Stuck · `esták`         | Pegar / Clavar                   |                                               |
 | Strike · `estráik` | Struck · `estrák`  | Struck · `estrák`       | Golpear / Huelga                 |                                               |
-| Swear · `sué:`*    | Swore · `suó:*`    | Sworn · `suó:*n`        | Jurar                            |                                               |
+| Swear · `sué:`*    | Swore · `suó:`*    | Sworn · `suó:*n`        | Jurar                            |                                               |
 | Sweep · `suí:p`    | Swept · `suépt`    | Swept · `suépt`         | Barrer                           |                                               |
 | Swing · `suíng`    | Swung · `suáng`    | Swung · `suáng`         | Oscilar / Columpiarse            |                                               |
 | Tear · `té:*`      | Tore · `tó:*`      | Torn · `tó:*n`          | Rasgar / Arrancar                |                                               |
