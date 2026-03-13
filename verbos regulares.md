@@ -73,6 +73,7 @@
 | Save · `séiv` | Saved · `séivd` | Saved · `séivd` | Ahorrar / Salvar |
 | Seem · `sí:m` | Seemed · `sí:md` | Seemed · `sí:md` | Parecer |
 | Serve · `sé:*v` | Served · `sé:*vd` | Served · `sé:*vd` | Servir |
+| Shout · `sháut` | Shouted · `sháu-ted` | Shouted · `sháu-ted` | Gritar |
 | Stay · `stéi` | Stayed · `stéid` | Stayed · `stéid` | Quedarse |
 | Suggest · `sag-chést` | Suggested · `sag-chés-ted` | Suggested · `sag-chés-ted` | Sugerir |
 | Support · `se-pó:*t` | Supported · `se-pó:*ted` | Supported · `se-pó:*ted` | Apoyar / Sostener |
