@@ -122,6 +122,7 @@
 | Prefer · `pri-fé:*` | Preferred · `pri-fé:*d` | Preferred · `pri-fé:*d` | Preferir |
 | Refer · `*i-fé:*` | Referred · `*i-fé:*d` | Referred · `*i-fé:*d` | Referir |
 | Reduce · `*i-diú:s` | Reduced · `*i-diú:st` | Reduced · `*i-diú:st` | Reducir |
+| Step · `stép` | Stepped · `stépt` | Stepped · `stépt` | Dar un paso |
 | Stop · `stóp` | Stopped · `stópt` | Stopped · `stópt` | Parar |
 | Travel · `trá-vel` | Travelled · `trá-veld` | Travelled · `trá-veld` | Viajar (UK) |
 

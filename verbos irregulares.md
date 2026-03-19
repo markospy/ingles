@@ -38,6 +38,7 @@
 | Break · `bréik`     | Broke · `bróuk`    | Broken · `bróu-ken`      | Romper              |                           |
 | Choose · `chú:z`    | Chose · `chóuz`    | Chosen · `chóu-zen`      | Elegir (z vibrante) |                           |
 | Drive · `dráiv`     | Drove · `dróuv`    | Driven · `drí-ven`       | Conducir            |                           |
+| Give · `gív`       | Gave · `guéiv`    | Given · `gí-ven`        | Dar                  |                           |
 | Forget · `fo*-guét` | Forgot · `fo*-gót` | Forgotten · `fo*-gó-ten` | Olvidar             |                           |
 | Speak · `spí:k`     | Spoke · `spóuk`    | Spoken · `spóu-ken`      | Hablar              |                           |
 | Steal · `stí:l`     | Stole · `stóul`    | Stolen · `stóu-len`      | Robar               |                           |
@@ -112,7 +113,6 @@
 | 🔤 Infinitivo               | 📝 Pasado Simple           | 🔄 Participio              | 🇪🇸 Significado           | 💡 Asociación inverosímil |
 | --------------------------- | -------------------------- | -------------------------- | -------------------------- | ------------------------- |
 | Become · `bi-kám`           | Became · `bi-kéim`         | Become · `bi-kám`          | Convertirse / Llegar a ser |                           |
-| Forget · `fo*-guét`         | Forgot · `fo*-gót`         | Forgotten · `fo*-gó-ten`   | Olvidar                    |                           |
 | Hear · `jí:*`               | Heard · `jé:*d`            | Heard · `jé:*d`            | Oír                        |                           |
 | Hold · `jóuld`              | Held · `jéld`              | Held · `jéld`              | Sostener / Sujetar         |                           |
 | Leave · `lí:v`              | Left · `léft`              | Left · `léft`              | Dejar / Abandonar          |                           |
@@ -132,21 +132,17 @@
 | Awake · `a-uéik`   | Awoke · `a-uóuk`   | Awakened · `a-uéi-kend` | Despertarse                      |                                               |
 | Bear · `bé:*`      | Bore · `bó:*`      | Born(e) · `bó:*n`       | Soportar / Dar a luz             |                                               |
 | Beat · `bí:t`      | Beat · `bí:t`      | Beaten · `bí:-ten`      | Golpear / Latir                  | El corazón late: *beat*                       |
-| Bet · `bét`        | Bet · `bét`        | Bet · `bét`             | Apostar                          |                                               |
 | Bind · `báind`     | Bound · `báund`    | Bound · `báund`         | Atar / Encuadernar               |                                               |
 | Bite · `báit`      | Bit · `bít`        | Bitten · `bí-ten`       | Morder                           | La mordida se va haciendo más corta: bite→bit |
-| Burst · `bé*st`    | Burst · `bé*st`    | Burst · `bé*st`         | Reventar / Estallar              |                                               |
 | Cast · `káest`     | Cast · `káest`     | Cast · `káest`          | Arrojar / Repartir (papeles)     |                                               |
 | Cling · `klíng`    | Clung · `kláng`    | Clung · `kláng`         | Adherirse / Agarrarse            |                                               |
 | Creep · `krí:p`    | Crept · `krépt`    | Crept · `krépt`         | Arrastrarse                      |                                               |
 | Deal · `dí:l`      | Dealt · `délt`     | Dealt · `délt`          | Tratar / Repartir                |                                               |
 | Dig · `díg`        | Dug · `dág`        | Dug · `dág`             | Excavar                          |                                               |
-| Draw · `dró:`      | Drew · `drú:`      | Drawn · `dró:n`         | Dibujar / Extraer                |                                               |
 | Freeze · `frí:z`   | Froze · `fróuz`    | Frozen · `fróu-zen`     | Congelar (z vibrante)            |                                               |
 | Grind · `gráind`   | Ground · `gráund`  | Ground · `gráund`       | Moler                            | El café se muele en el *ground* (suelo)       |
 | Hang · `jáeng`     | Hung · `jáng`      | Hung · `jáng`           | Colgar                           |                                               |
 | Hide · `jáid`      | Hid · `jíd`        | Hidden · `jí-den`       | Esconder                         |                                               |
-| Hit · `jít`        | Hit · `jít`        | Hit · `jít`             | Golpear                          |                                               |
 | Lay · `léi`        | Laid · `léid`      | Laid · `léid`           | Colocar / Poner                  |                                               |
 | Lead · `lí:d`      | Led · `léd`        | Led · `léd`             | Dirigir / Liderar                | Las luces LED *lideran* la iluminación        |
 | Mean · `mí:n`      | Meant · `mént`     | Meant · `mént`          | Significar / Querer decir        |                                               |
@@ -156,7 +152,6 @@
 | Shine · `sháin`    | Shone · `shóun`    | Shone · `shóun`         | Brillar                          |                                               |
 | Shoot · `shú:t`    | Shot · `shót`      | Shot · `shót`           | Disparar                         |                                               |
 | Show · `shóu`      | Showed · `shóud`   | Shown · `shóun`         | Mostrar                          |                                               |
-| Shrink · `shrínk`  | Shrank · `shráenk` | Shrunk · `shránk`       | Encoger                          |                                               |
 | Slide · `sláid`    | Slid · `slíd`      | Slid · `slíd`           | Deslizar                         |                                               |
 | Spin · `spín`      | Spun · `spán`      | Spun · `spán`           | Girar                            |                                               |
 | Stick · `estík`    | Stuck · `esták`    | Stuck · `esták`         | Pegar / Clavar                   |                                               |
