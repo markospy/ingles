@@ -147,6 +147,7 @@
 | Include · `in-klú:d` | Included · `in-klú:-ded` | Included · `in-klú:-ded` | Incluir |
 | Introduce · `in-tro-diú:s` | Introduced · `in-tro-diú:st` | Introduced · `in-tro-diú:st` | Presentar / Introducir |
 | Like · `láik` | Liked · `láikt` | Liked · `láikt` | Gustar |
+| Lie · `lái` | Lied · `láid` | Lied · `láid` | Mentir |
 | Live · `lív` | Lived · `lívd` | Lived · `lívd` | Vivir |
 | Provide · `pro-váid` | Provided · `pro-vái-ded` | Provided · `pro-vái-ded` | Proporcionar |
 | Raise · `réiz` | Raised · `réizd` | Raised · `réizd` | Levantar / Subir |
@@ -163,6 +164,6 @@
 | 1 | Base + `-ed` | 67 |
 | 2 | `y` → `ied` | 10 |
 | 3 | Doble consonante + `-ed` | 9 |
-| 4 | `e` muda → solo `-d` | 19 |
+| 4 | `e` muda → solo `-d` | 20 |
 
-**Total: 105+ verbos regulares** de uso frecuente, con pronunciación figurada para infinitivo, pasado y participio.
+**Total: 106+ verbos regulares** de uso frecuente, con pronunciación figurada para infinitivo, pasado y participio.

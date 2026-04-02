@@ -44,15 +44,19 @@
 | Steal · `stí:l`     | Stole · `stóul`    | Stolen · `stóu-len`     | Robar                            |                                  |
 | Wake · `uéik`       | Woke · `uóuk`      | Woken · `uóu-ken`       | Despertar                        |                                  |
 | Write · `ráit`      | Wrote · `róut`     | Written · `rí-ten`      | Escribir                         |                                  |
+| Ride · `ráid`       | Rode · `róud`      | Ridden · `rí-den`       | Montar (bici / moto / caballo)   |                                  |
 | Awake · `a-uéik`    | Awoke · `a-uóuk`   | Awoken · `a-uóu-ken`    | Despertarse                      |                                  |
 | Shake · `shéik`     | Shook · `shúk`     | Shaken · `shéi-ken`     | Sacudir                          |                                  |
 | Rise · `ráiz`       | Rose · `róuz`      | Risen · `rí-zen`        | Levantarse / Subir (z vibrante)  | El sol *rose* (rosa) al amanecer |
 | Arise · `a-ráiz`    | Arose · `a-róuz`   | Arisen · `a-rí-zen`     | Levantarse / Surgir (z vibrante) |                                  |
 | Beat · `bí:t`       | Beat · `bí:t`      | Beaten · `bí:-ten`      | Golpear / Latir                  | El corazón late: *beat*          |
 | Bite · `báit`       | Bit · `bít`        | Bitten · `bí-ten`       | Morder                           | La mordida se va haciendo más corta: bite→bit |
+| Eat · `í:t`         | Ate · `éit`        | Eaten · `í:-ten`        | Comer                            |                                  |
 | Fall · `fó:l`       | Fell · `fél`       | Fallen · `fó:-len`      | Caer                             |                                  |
 | Freeze · `frí:z`    | Froze · `fróuz`    | Frozen · `fróu-zen`     | Congelar (z vibrante)            |                                  |
 | Hide · `jáid`       | Hid · `jíd`        | Hidden · `jí-den`       | Esconder                         |                                  |
+| See · `sí:`         | Saw · `só:`        | Seen · `sí:n`           | Ver                              |                                  |
+| Be · `bí:`         | Was/Were · `uóz / ué:*` | Been · `bín`      | Ser / Estar                      |                                               |
 
 ## 📑 Grupo 4: Verbos Invariables (Las tres formas son iguales)
 
@@ -167,5 +171,6 @@
 | Pay · `péi`        | Paid · `péid`      | Paid · `péid`           | Pagar                            |                                               |
 | Shine · `sháin`    | Shone · `shóun`    | Shone · `shóun`         | Brillar                          |                                               |
 | Slide · `sláid`    | Slid · `slíd`      | Slid · `slíd`           | Deslizar                         |                                               |
+| Go · `góu`         | Went · `uént`      | Gone · `gón`            | Ir                               |                                               |
 
 
